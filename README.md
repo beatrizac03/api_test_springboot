@@ -1,7 +1,7 @@
 <h1>API SpringBoot</h1>
 
 <h2>❔ How to use it</h2>
-<li>JDK (Java Development Kit) 17+ installed</li>
+<li>JDK 17+ installed</li>
 <li>Springboot pack added (VSCODE: Springboot Extension Pack)</li>
 <li>Java Extension Pack (VSCODE)</li>
 
