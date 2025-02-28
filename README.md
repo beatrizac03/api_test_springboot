@@ -1,10 +1,10 @@
 <h1>API SpringBoot</h1>
 
 <h2>❔ How to use it</h2>
-- Java installed
-- Springboot pack added in project (VSCODE: Springboot Extension Pack)
+<li>Java installed</li>
+<li>Springboot pack added in project (VSCODE: Springboot Extension Pack)</li>
 
 <h2>ROUTES</h2>
-- "/test" => returns "Hello World"
-- "/" => returns "Início"
-- "/user" => receives a "name" param
+<li>"/test" => returns "Hello World"</li>
+<li>"/" => returns "Início"</li>
+<li>"/user" => receives a "name" param</li>
