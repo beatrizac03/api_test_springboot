@@ -1,8 +1,9 @@
 <h1>API SpringBoot</h1>
 
 <h2>❔ How to use it</h2>
-<li>Java installed</li>
-<li>Springboot pack added in project (VSCODE: Springboot Extension Pack)</li>
+<li>JDK (Java Development Kit) 17+ installed</li>
+<li>Springboot pack added (VSCODE: Springboot Extension Pack)</li>
+<li>Java Extension Pack (VSCODE)</li>
 
 <h2>ROUTES</h2>
 <li>"/test" => returns "Hello World"</li>
